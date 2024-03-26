@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "title": "",
+      "price": 0,
+      "id": "6"
+    },
+    {
+      "title": "pc",
+      "price": "700",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "df8d",
+      "title": " dsadsa",
+      "price": "54234"
+    },
+    {
+      "id": "cfb1",
+      "title": "galal",
+      "price": "500"
+    }
+  ]
+}
